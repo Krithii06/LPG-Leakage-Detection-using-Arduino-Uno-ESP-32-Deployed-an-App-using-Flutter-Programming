@@ -4,6 +4,9 @@
 // Project overview and purpose
 This project is an LPG (Liquefied Petroleum Gas) leakage detection system that aims to detect gas leaks and alert users to potential dangers. The system uses gas sensors to monitor the environment and triggers an alarm if a leakage is detected.
 
+https://github.com/Krithii06/LPG-Leakage-Detection-using-Arduino-Uno-ESP-32-Deployed-an-App-using-Flutter-Programming/assets/115915867/45a5ee51-cd99-46df-8b49-339b01eb309b
+
+
 // Key features of the system
 ## Features
 - **Real-time Gas Detection:** Continuously monitors for LPG leakage.
